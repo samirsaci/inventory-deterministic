@@ -13,7 +13,7 @@ Considering the distribution of the demand, the objective is to build a replenis
 - Shortage/Stock-out Costs: the costs of not having enough inventory to meet the customer demand (Lost Sales, Penalty) in (Euros/Unit)
 
 ### Article
-In this [Article](https://www.samirsaci.com/inventory-management-for-retail-deterministic-demand/), we will present a simple methodology using a discrete simulation model built with Python to test several inventory management rules based assuming:
+In this [Article](https://towardsdatascience.com/inventory-management-for-retail-deterministic-demand-311682c02518), we will present a simple methodology using a discrete simulation model built with Python to test several inventory management rules based assuming:
 - Deterministic Constant Demand: D (Units/Year)
 - Lead Time between ordering and replenishment (Days)
 - Cost of shortage and storage (Euros/Unit)
